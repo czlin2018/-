@@ -1,6 +1,6 @@
-1.测试网页文件：
+1.测试网页文件：http://www.cnsoftbei.com/upload_files/other/znwdxtsjykf_cssj.rar
 2.处理文件需放在H:/团队/support.huaweicloud.com文件夹中，格式为.html
 3.需新建两个文件夹：C:/Users/czldd/Desktop/last/notfaq    
                     C:/Users/czldd/Desktop/last/faq
-  用来存放处理结果，其中notfaq为正文提取 faq为标签提取  
+                     用来存放处理结果，其中notfaq为正文提取 faq为标签提取  
       
